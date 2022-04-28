@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I just start learn about handling datas and Python to analize datas.
+### I hear that I must use Git and Github if do some work with programing.
+### I try this region, because it is fun for me!
 <!--
 **KodaiIkesue/KodaiIkesue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
